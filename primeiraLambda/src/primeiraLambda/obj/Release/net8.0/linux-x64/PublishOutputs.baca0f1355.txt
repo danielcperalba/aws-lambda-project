@@ -1,0 +1,6 @@
+C:\Users\danie\OneDrive\Documentos\repositories\aws-lambda-project\primeiraLambda\src\primeiraLambda\bin\Release\net8.0\publish\primeiraLambda.deps.json
+C:\Users\danie\OneDrive\Documentos\repositories\aws-lambda-project\primeiraLambda\src\primeiraLambda\bin\Release\net8.0\publish\primeiraLambda.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\repositories\aws-lambda-project\primeiraLambda\src\primeiraLambda\bin\Release\net8.0\publish\primeiraLambda.pdb
+C:\Users\danie\OneDrive\Documentos\repositories\aws-lambda-project\primeiraLambda\src\primeiraLambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\danie\OneDrive\Documentos\repositories\aws-lambda-project\primeiraLambda\src\primeiraLambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\danie\OneDrive\Documentos\repositories\aws-lambda-project\primeiraLambda\src\primeiraLambda\bin\Release\net8.0\publish\primeiraLambda.dll
